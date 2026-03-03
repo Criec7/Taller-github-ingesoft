@@ -1,5 +1,6 @@
 ### HU-02 – Pagar Pedido
 
+
 Como usuario registrado
 quiero pagar mi pedido con tarjeta
 para confirmar la compra
@@ -17,3 +18,11 @@ Las consultas de estado deben responder en menos de 2 segundos.
 **RNF-02 Seguridad:**
 
 La información de pago debe transmitirse mediante protocolo seguro.
+
+### Tabla de trazabilidad
+
+| HU              | RF            | Caso de Prueba                               | Estado     |
+|:--------------- |:-------------:| --------------------------------------------:|:-----------|
+|  HU1            | RF-01         |  Crear un pedido                             |  Pendiente |
+|  HU2            | RF-02         |  Validar el pago del pedido                  |  Pendiente |
+|  HU3            | RF-03         |  Validar el seguimiento del pedido           |  Pendiente |
