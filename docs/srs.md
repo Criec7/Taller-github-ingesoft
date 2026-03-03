@@ -8,11 +8,11 @@ para realizar una compra
 
 ---
 
-Criterios de Aceptación
+- Criterios de Aceptación
 
-El usuario debe estar autenticado.
+- El usuario debe estar autenticado.
 
-Debe mostrarse el valor total actualizado.
+- Debe mostrarse el valor total actualizado.
 
-El sistema debe permitir modificar cantidades.
+- El sistema debe permitir modificar cantidades.
 
